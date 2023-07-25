@@ -1,5 +1,5 @@
 # 这个是Git共享仓库测试项目
-
+![这是个图片](/ReadmeImages/Title.jpg "Magic Gardens")
 ## 第一次推送（SunHaoming）
 添加了Readme.txt
 ## 第二次推送（SunHaoming）
